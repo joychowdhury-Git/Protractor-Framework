@@ -1,0 +1,46 @@
+{
+  "uid" : "ab1594b509729dc9",
+  "name" : "Chain Locators",
+  "fullName" : "All locator Tutorial.Chain Locators",
+  "historyId" : "d2516141a983c3c4a49b2d7ab6864bc6",
+  "time" : {
+    "start" : 1599738491184,
+    "stop" : 1599738499683,
+    "duration" : 8499
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "All locator Tutorial"
+  }, {
+    "name" : "testClass",
+    "value" : "All locator Tutorial"
+  }, {
+    "name" : "testMethod",
+    "value" : "Chain Locators"
+  }, {
+    "name" : "package",
+    "value" : "All locator Tutorial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab1594b509729dc9.json",
+  "parameterValues" : [ ]
+}

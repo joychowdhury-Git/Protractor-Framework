@@ -1,0 +1,52 @@
+{
+  "uid" : "28cbb5a15b79a3e0",
+  "name" : "Handle Alert",
+  "fullName" : "Protractor Alert Tutorial.Handle Alert",
+  "historyId" : "6064dcc90b7f40e69c39346e04088783",
+  "time" : {
+    "start" : 1599738459494,
+    "stop" : 1599738491165,
+    "duration" : 31671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at listOnTimeout (internal/timers.js:549:17)\n                    at processTimers (internal/timers.js:492:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Alert Tutorial"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Alert Tutorial"
+  }, {
+    "name" : "testMethod",
+    "value" : "Handle Alert"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Alert Tutorial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "28cbb5a15b79a3e0.json",
+  "parameterValues" : [ ]
+}

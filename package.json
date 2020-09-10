@@ -1,0 +1,21 @@
+{
+  "name": "ProtractorTutorial",
+  "dependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "jasmine-allure-reporter" : "^1.0.2",
+    "allure-commandline" : "^2.13.0"
+  },
+  "scripts": {
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update",
+    "webdriver-start": "./node_modules/.bin/webdriver-manager start",
+    "start": "npm run webdriver-update && npm run webdriver-start",
+    "protractor": "./node_modules/.bin/protractor configuration.js",
+    "Smokesuite": "./node_modules/.bin/protractor configuration.js --suite Smoke",  
+    "Regressionsuite": "./node_modules/.bin/protractor configuration.js --suite Regression",      
+    "posttest": "node_modules/.bin/allure generate ./allure-results -c && allure open"
+   
+  }
+}

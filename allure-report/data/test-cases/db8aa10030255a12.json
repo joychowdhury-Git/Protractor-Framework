@@ -1,0 +1,52 @@
+{
+  "uid" : "db8aa10030255a12",
+  "name" : "Move mouse",
+  "fullName" : "MouseAction Tutorial.Move mouse",
+  "historyId" : "2caef002a61a0f0705532581301af1ef",
+  "time" : {
+    "start" : 1599738457160,
+    "stop" : 1599738459445,
+    "duration" : 2285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: browser.actions(...).sendkeys is not a function",
+  "statusTrace" : "TypeError: browser.actions(...).sendkeys is not a function\n                    at UserContext.<anonymous> (D:\\Workspace_Joy\\ProtractorTutorial\\Actions.js:7:21)\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                From: Task: Run it(\"Move mouse\") in control flow\n                    at UserContext.<anonymous> (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                    at D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\selenium-webdriver\\lib\\promise.js:2599:53\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (D:\\Workspace_Joy\\ProtractorTutorial\\Actions.js:3:2)\n                    at addSpecsToSuite (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (D:\\Workspace_Joy\\ProtractorTutorial\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (D:\\Workspace_Joy\\ProtractorTutorial\\Actions.js:1:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n                    at Module.load (internal/modules/cjs/loader.js:985:32)\n                    at Function.Module._load (internal/modules/cjs/loader.js:878:14)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "MouseAction Tutorial"
+  }, {
+    "name" : "testClass",
+    "value" : "MouseAction Tutorial"
+  }, {
+    "name" : "testMethod",
+    "value" : "Move mouse"
+  }, {
+    "name" : "package",
+    "value" : "MouseAction Tutorial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "db8aa10030255a12.json",
+  "parameterValues" : [ ]
+}

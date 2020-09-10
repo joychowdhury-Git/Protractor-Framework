@@ -1,0 +1,41 @@
+[ {
+  "uid" : "79ad3e28e674b39e",
+  "name" : "Testing calculator functionality",
+  "time" : {
+    "start" : 1599736384575,
+    "stop" : 1599736389567,
+    "duration" : 4992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db8aa10030255a12",
+  "name" : "Move mouse",
+  "time" : {
+    "start" : 1599738457160,
+    "stop" : 1599738459445,
+    "duration" : 2285
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab1594b509729dc9",
+  "name" : "Chain Locators",
+  "time" : {
+    "start" : 1599738491184,
+    "stop" : 1599738499683,
+    "duration" : 8499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28cbb5a15b79a3e0",
+  "name" : "Handle Alert",
+  "time" : {
+    "start" : 1599738459494,
+    "stop" : 1599738491165,
+    "duration" : 31671
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

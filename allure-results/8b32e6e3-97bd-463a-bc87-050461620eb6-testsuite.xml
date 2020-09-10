@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599738491184' stop='1599738499685'>
+    <name>All locator Tutorial</name>
+    <title>All locator Tutorial</title>
+    <test-cases>
+        <test-case start='1599738491184' status='passed' stop='1599738499683'>
+            <name>Chain Locators</name>
+            <title>Chain Locators</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

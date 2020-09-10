@@ -1,0 +1,73 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Protractor Locator Tutorial",
+    "children" : [ {
+      "name" : "Testing calculator functionality",
+      "uid" : "79ad3e28e674b39e",
+      "parentUid" : "7e0b6588b624962b5105ef78bd5a3a52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599736384575,
+        "stop" : 1599736389567,
+        "duration" : 4992
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7e0b6588b624962b5105ef78bd5a3a52"
+  }, {
+    "name" : "MouseAction Tutorial",
+    "children" : [ {
+      "name" : "Move mouse",
+      "uid" : "db8aa10030255a12",
+      "parentUid" : "3b59e78f50cb6ad64c63dabb3984fe2b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1599738457160,
+        "stop" : 1599738459445,
+        "duration" : 2285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3b59e78f50cb6ad64c63dabb3984fe2b"
+  }, {
+    "name" : "Protractor Alert Tutorial",
+    "children" : [ {
+      "name" : "Handle Alert",
+      "uid" : "28cbb5a15b79a3e0",
+      "parentUid" : "7fd07db193f50357849466a15b951446",
+      "status" : "failed",
+      "time" : {
+        "start" : 1599738459494,
+        "stop" : 1599738491165,
+        "duration" : 31671
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7fd07db193f50357849466a15b951446"
+  }, {
+    "name" : "All locator Tutorial",
+    "children" : [ {
+      "name" : "Chain Locators",
+      "uid" : "ab1594b509729dc9",
+      "parentUid" : "808ec193aef5583be507ac357cb29456",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738491184,
+        "stop" : 1599738499683,
+        "duration" : 8499
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "808ec193aef5583be507ac357cb29456"
+  } ]
+}

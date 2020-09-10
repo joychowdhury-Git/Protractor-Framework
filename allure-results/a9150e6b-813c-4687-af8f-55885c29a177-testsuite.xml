@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1599736373175' stop='1599736389570'>
+    <name>Protractor Locator Tutorial</name>
+    <title>Protractor Locator Tutorial</title>
+    <test-cases>
+        <test-case start='1599736373177' status='passed' stop='1599736379661'>
+            <name>Testing calculator functionality</name>
+            <title>Testing calculator functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='bb9ed040-8b4f-490d-80b8-721cef981f14-attachment.png' type='image/png' size='15384'/>
+            </attachments>
+        </test-case>
+        <test-case start='1599736379662' status='passed' stop='1599736384575'>
+            <name>Testing calculator functionality</name>
+            <title>Testing calculator functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4b5ebdfc-9eae-4b38-bb2e-06f588d2aa19-attachment.png' type='image/png' size='15769'/>
+            </attachments>
+        </test-case>
+        <test-case start='1599736384575' status='passed' stop='1599736389567'>
+            <name>Testing calculator functionality</name>
+            <title>Testing calculator functionality</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='92de8d96-ed5a-4f8a-b95e-a1af25d9f805-attachment.png' type='image/png' size='15947'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

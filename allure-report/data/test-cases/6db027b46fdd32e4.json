@@ -1,0 +1,60 @@
+{
+  "uid" : "6db027b46fdd32e4",
+  "name" : "Testing calculator functionality",
+  "fullName" : "Protractor Locator Tutorial.Testing calculator functionality",
+  "historyId" : "252ad885f1ea27045fd93800e45b9c67",
+  "time" : {
+    "start" : 1599736379662,
+    "stop" : 1599736384575,
+    "duration" : 4913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a7bc185cf2823136",
+      "name" : "Screenshot",
+      "source" : "a7bc185cf2823136.png",
+      "type" : "image/png",
+      "size" : 15769
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Locator Tutorial"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Locator Tutorial"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing calculator functionality"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Locator Tutorial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6db027b46fdd32e4.json",
+  "parameterValues" : [ ]
+}

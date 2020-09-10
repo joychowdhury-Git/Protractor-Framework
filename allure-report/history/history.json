@@ -1,0 +1,80 @@
+{
+  "2caef002a61a0f0705532581301af1ef" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db8aa10030255a12",
+      "status" : "failed",
+      "statusDetails" : "Failed: browser.actions(...).sendkeys is not a function",
+      "time" : {
+        "start" : 1599738457160,
+        "stop" : 1599738459445,
+        "duration" : 2285
+      }
+    } ]
+  },
+  "252ad885f1ea27045fd93800e45b9c67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "79ad3e28e674b39e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599736384575,
+        "stop" : 1599736389567,
+        "duration" : 4992
+      }
+    } ]
+  },
+  "6064dcc90b7f40e69c39346e04088783" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "28cbb5a15b79a3e0",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1599738459494,
+        "stop" : 1599738491165,
+        "duration" : 31671
+      }
+    } ]
+  },
+  "d2516141a983c3c4a49b2d7ab6864bc6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab1594b509729dc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599738491184,
+        "stop" : 1599738499683,
+        "duration" : 8499
+      }
+    } ]
+  }
+}

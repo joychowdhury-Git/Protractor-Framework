@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Sep 10 17:17:39 IST 2020","Thu Sep 10 17:18:11 IST 2020","31671","","Protractor Alert Tutorial","","Protractor Alert Tutorial","Handle Alert","Handle Alert",""
+"passed","Thu Sep 10 17:18:11 IST 2020","Thu Sep 10 17:18:19 IST 2020","8499","","All locator Tutorial","","All locator Tutorial","Chain Locators","Chain Locators",""
+"passed","Thu Sep 10 16:43:04 IST 2020","Thu Sep 10 16:43:09 IST 2020","4992","","Protractor Locator Tutorial","","Protractor Locator Tutorial","Testing calculator functionality","Testing calculator functionality",""
+"failed","Thu Sep 10 17:17:37 IST 2020","Thu Sep 10 17:17:39 IST 2020","2285","","MouseAction Tutorial","","MouseAction Tutorial","Move mouse","Move mouse",""
