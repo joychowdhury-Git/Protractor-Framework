@@ -3,7 +3,7 @@ var HtmlReporter = require('protractor-beautiful-reporter');
 var AllureReporter = require('jasmine-allure-reporter');
 exports.config = {
 		
-		seleniumAddress: 'http://localhost:4444/wd/hub',
+		//seleniumAddress: 'http://localhost:4444/wd/hub', --direct connect
 		specs: ['ElementBasicsParameter.js','ChainLocator.js'],
 		
 		
