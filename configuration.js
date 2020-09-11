@@ -34,7 +34,7 @@ exports.config = {
 		},
 		
 		suites :{
-			Smoke : ['Actions.js','Alert.js','All.js'],
+			Smoke : ['Dropdown.js'],
 			Regression : ['PracticeExercise.js','Frames.js']
 		
 		},
